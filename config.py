@@ -15,6 +15,6 @@ import os
 
 path = os.getcwd()
 
-cost_data_path = {'cost_data_path': path+"/data/Cost Data.xlsx"}
-id_data_path = {'id_data_path': path+"/data/IDs.csv"}
-order_data_path = {'order_data_path':path+"/data/Order Data.xlsx"}
+cost_data_path = {'cost_data_path': path + "/data/Cost Data.xlsx"}
+id_data_path = {'id_data_path': path + "/data/IDs.csv"}
+order_data_path = {'order_data_path': path + "/data/Order Data.xlsx"}
